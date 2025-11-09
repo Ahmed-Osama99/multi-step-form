@@ -16,7 +16,7 @@ function App() {
       <main className="main">
         <UserProvider>
           <Routes>
-            <Route path="/" element={<PersonInfo />} />
+            <Route path="/multi-step-form" element={<PersonInfo />} />
             <Route path="/personal_info" element={<PersonInfo />} />
             <Route path="/select_plan" element={<Plan />} />
             <Route path="/add_ons" element={<Adds />} />
