@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Arcade",
+    "monthlyPrice": 9,
+    "yearlyPrice": 90,
+    "monthlyFreeDuration": "1 week free",
+    "yearlyFreeDuration": "2 months free",
+    "icon": "icon-arcade.svg"
+  },
+  {
+    "name": "Advanced",
+    "monthlyPrice": 12,
+    "yearlyPrice": 120,
+    "monthlyFreeDuration": "1 week free",
+    "yearlyFreeDuration": "2 months free",
+    "icon": "icon-advanced.svg"
+  },
+  {
+    "name": "Pro",
+    "monthlyPrice": 15,
+    "yearlyPrice": 150,
+    "monthlyFreeDuration": "1 week free",
+    "yearlyFreeDuration": "2 months free",
+    "icon": "icon-pro.svg"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Your Info",
+    "path": "/personal_info"
+  },
+  {
+    "id": 2,
+    "name": "Select plan",
+    "path": "/select_plan"
+  },
+  {
+    "id": 3,
+    "name": "Add-ons",
+    "path": "/add_ons"
+  },
+  {
+    "id": 4,
+    "name": "Summary",
+    "path": "/summary"
+  }
+]

@@ -1,0 +1,40 @@
+.step {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  text-transform: uppercase;
+  pointer-events: none;
+}
+.step__order {
+  border: 1px solid;
+  width: 32px;
+  aspect-ratio: 1/1;
+  color: var(--white);
+  font-weight: 500;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.5s;
+}
+.step:hover .step__order,
+.step.active .step__order {
+  background-color: var(--blue-200);
+  color: var(--blue-950);
+  border-color: transparent;
+}
+
+.step__name__head {
+  color: var(--grey-500);
+  font-size: 0.7rem;
+}
+.step__name__body {
+  display: block;
+  color: var(--blue-50);
+  font-weight: 500;
+}
+@media (max-width: 599px) {
+  .step__name {
+    display: none;
+  }
+}
