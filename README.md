@@ -32,8 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://ahmed-osama99.github.io/personal_info)
 
 ## My process
 
@@ -44,10 +43,3 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - [React](https://reactjs.org/) - JS library
-
-
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
