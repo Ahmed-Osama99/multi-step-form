@@ -8,7 +8,7 @@ function Navbar() {
   const normalize = (p = "") => p.replace(/[-_]+/g, "-").replace(/\/+$/, "");
 
   const currentPath =
-    location.pathname === "/" ? stepsData[0]?.path ?? "/" : location.pathname;
+    location.pathname === "/multi-step-form" ? stepsData[0]?.path ?? "/multi-step-form" : location.pathname;
 
   return (
     <nav className="navbar">
